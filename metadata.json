@@ -1,0 +1,6 @@
+{
+  "name": "KisanSeva - Crop Doctor & Farming Advisory",
+  "description": "AI-powered crop disease detection, multilingual organic & chemical treatments, real-time weather alerts, and seasonal crop recommendations for farmers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
